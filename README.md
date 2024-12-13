@@ -1,5 +1,5 @@
 # 💫 About Me:
-✅Im currently working on my own projects ✍️<br>✅Im looking to collaborate with other developers 👨‍💻<br>✅Im currently learning web development 💻<br>✅Ask me about web design - usability <br>✅Im looking for team working 🫡
+✅Im currently working on Grupo Dinosaurio 🦖<br>✅Im looking to collaborate with other developers 👨‍💻<br>✅Ask me about web design - usability <br>✅Im looking for a new team working 🫡
 
 
 ## 🌐 Socials:
