@@ -1,10 +1,22 @@
-# 💫 Sobre mí:
+## 💫 Sobre mí:
 👋 ¡Hola! Soy Mathias, un desarrollador web apasionado por la usabilidad y las interfaces limpias y responsivas.<br>
 🦖 Actualmente trabajo en Grupo Dinosaurio, creando experiencias digitales con impacto real.<br>
 🤝 Siempre estoy abierto a colaborar en proyectos interesantes junto a otros desarrolladores.<br>
 💡 Preguntame sobre diseño web, mejores prácticas UX/UI y desarrollo front-end.<br>
 🚀 En búsqueda de nuevas oportunidades para crecer y aportar en un equipo dinámico.
 
+## 🧩 Proyectos destacados
+✨ Algunos proyectos que he desarrollado o en los que he participado:
+🔐 Sistema de Turnos Web – App para gestión de turnos online usando Angular + .NET
+🛒 Conexion con sistemas de pagos - carga de cotizacion para realizar compras en dolares en distintos metodos de pago
+🧾 Facturacion - Sistema realizado para la optimizacion del area de preparado de pedidos online
+🥫 Vencimientos - App realizada para el control del retirado de productos antes de su vencimiento de gondolas del super.
+
+## 🎓 Certificaciones y formación
+💻 Curso de Angular –  Udemy
+🧠 Principios de UX/UI – Google UX Design
+🧮 Lógica de Programación – Argentina Programa
+🌐 Ingles avanzado (C1)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mathi_martinez) 
