@@ -1,8 +1,7 @@
 ## 💫 Sobre mí:
-👋 ¡Hola! Soy Mathias, un desarrollador web apasionado por la usabilidad y las interfaces limpias y responsivas.<br>
+👋 ¡Hola! Soy Mathias, un desarrollador web fullstack, principalmente Angular 19+ y .NET.<br>
 🦖 Actualmente trabajo en Grupo Dinosaurio, creando experiencias digitales con impacto real.<br>
 🤝 Siempre estoy abierto a colaborar en proyectos interesantes junto a otros desarrolladores.<br>
-💡 Preguntame sobre diseño web, mejores prácticas UX/UI y desarrollo front-end.<br>
 🚀 En búsqueda de nuevas oportunidades para crecer y aportar en un equipo dinámico.
 
 ## 🧩 Proyectos destacados
