@@ -16,6 +16,7 @@
 🧠 Principios de UX/UI – Google UX Design<br>
 🧮 Lógica de Programación – Argentina Programa<br>
 🌐 Ingles avanzado (C1)<br>
+📕 Estudiante avanzado de Ingenieria en Sistemas<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mathi_martinez) 
