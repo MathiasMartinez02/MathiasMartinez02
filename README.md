@@ -1,5 +1,5 @@
 ## 💫 Sobre mí:
-👋 ¡Hola! Soy Mathias, desarrollador Fullstack con foco en Angular 19+ y .NET. Apasionado por crear experiencias digitales que resuelvan problemas reales.<br>
+👋 ¡Hola! Soy Mathias, desarrollador Fullstack Apasionado por crear experiencias digitales que resuelvan problemas reales.<br>
 🦖 Actualmente trabajo en Grupo Dinosaurio, creando experiencias digitales con impacto real.<br>
 🤝 Siempre estoy abierto a colaborar en proyectos interesantes junto a otros desarrolladores.<br>
 🚀 En búsqueda de nuevas oportunidades para crecer y aportar en un equipo dinámico.
